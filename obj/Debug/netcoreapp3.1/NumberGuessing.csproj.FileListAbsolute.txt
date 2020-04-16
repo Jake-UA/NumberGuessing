@@ -1,0 +1,13 @@
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.csprojAssemblyReference.cache
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.csproj.CoreCompileInputs.cache
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.AssemblyInfoInputs.cache
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.AssemblyInfo.cs
+/mnt/c/Workspace/NumberGuessing/bin/Debug/netcoreapp3.1/NumberGuessing
+/mnt/c/Workspace/NumberGuessing/bin/Debug/netcoreapp3.1/NumberGuessing.deps.json
+/mnt/c/Workspace/NumberGuessing/bin/Debug/netcoreapp3.1/NumberGuessing.runtimeconfig.json
+/mnt/c/Workspace/NumberGuessing/bin/Debug/netcoreapp3.1/NumberGuessing.runtimeconfig.dev.json
+/mnt/c/Workspace/NumberGuessing/bin/Debug/netcoreapp3.1/NumberGuessing.dll
+/mnt/c/Workspace/NumberGuessing/bin/Debug/netcoreapp3.1/NumberGuessing.pdb
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.dll
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.pdb
+/mnt/c/Workspace/NumberGuessing/obj/Debug/netcoreapp3.1/NumberGuessing.genruntimeconfig.cache
