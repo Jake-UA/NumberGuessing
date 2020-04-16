@@ -1,6 +1,10 @@
-Number Guesser: Version 1.0.0 by Jake Williams
+# Number Guesser: Version 1.0.0 by Jake Williams
+- Language: C#
+- Framework: .NET
 
-Instructions:
-	1. Open a terminal with dotnet installed
-	2. Locate directory of files and execute "dotnet run"
-	3. Enjoy :)
+Instructions
+----------------------------------------------------------------------------------------------------------------------------------------
+- Open a terminal with suitable dotnet packages installed
+- Locate the directory of the files and execute "dotnet run"
+- Enjoy :)
+----------------------------------------------------------------------------------------------------------------------------------------
